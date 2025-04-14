@@ -3,7 +3,7 @@ Alien Invasion is a classic arcade-style shooter game developed using Python and
 
 ---
 
-## 🎮 Features
+## Features
 
 - Smooth ship movement with keyboard input.
 - Bullets with collision detection to destroy aliens.
